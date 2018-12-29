@@ -1,5 +1,5 @@
 # mac-changer
-A simple python script to change your mac changer in Linux Based Systems.
+A simple python script to change your mac address in Linux Based Systems.
 ##Usage
 ```bash
 python mac_changer.py [--interface interface] [--mac_addr mac_addr]
